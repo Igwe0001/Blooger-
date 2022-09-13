@@ -519,6 +519,10 @@ footer ul > li > ul > li {
     border-bottom-left-radius: 13rem;
   }
 
+  .section__1 {
+    height: 70vh;
+  }
+
   .list {
     margin-right: 3.5rem;
     display: initial;
