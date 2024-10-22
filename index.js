@@ -26,6 +26,8 @@ hamburger.addEventListener("click", () => {
   });
 });
 
+
+// Nav link accordion
 listDiv.forEach((e) => {
   e.addEventListener("click", (event) => {
     
